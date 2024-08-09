@@ -1,4 +1,4 @@
-package com.example.paging3tutorial
+package com.example.paging3tutorial.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
